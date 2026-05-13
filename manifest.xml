@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>2.2.24</version>
-    <url>https://github.com/bekirarpacik/arbex-updates/releases/download/v2.2.24/Arbex-Otomasyon-Istasyon-Setup-2.2.24.exe</url>
-    <changelog>https://github.com/bekirarpacik/arbex-updates/releases/tag/v2.2.24</changelog>
+    <version>2.2.25</version>
+    <url>https://github.com/bekirarpacik/arbex-updates/releases/download/v2.2.25/Arbex-Otomasyon-Istasyon-Setup-2.2.25.exe</url>
+    <changelog>https://github.com/bekirarpacik/arbex-updates/releases/tag/v2.2.25</changelog>
     <mandatory>false</mandatory>
 </item>
